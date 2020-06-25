@@ -3,3 +3,7 @@ body {
     text-align: center;
     font-family: American Typewriter, serif;
 }
+
+#photo {
+    width: 200px;
+}
