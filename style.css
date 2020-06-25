@@ -26,8 +26,7 @@ body {
     width: 30px;
     padding: 20px 10px;
     display: inline-block;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 300px;
 }
 
 .contacts li a img:hover {
