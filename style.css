@@ -7,12 +7,25 @@ body {
     text-align: center;
 }
 
+.name {
+    color: #AFEEEE;
+}
+
+.msu {
+    color: #98FB98;
+}
+
+#subtitles {
+    color: #DDA0DD;
+}
+
 p {
     text-align: left;
+    color: #FFDAB9;
 }
 
 .photo {
-    width: 200px;
+    width: 250px;
     display: block;
     margin-left: auto;
     margin-right: auto;
