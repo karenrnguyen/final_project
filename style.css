@@ -49,6 +49,10 @@ p {
     margin-right: auto;
 }
 
-.wrapper {
-    display: flex;
-  }
+.list {
+    list-style-type: '~';
+}
+
+.item {
+    color: #FFFFE0;
+}
