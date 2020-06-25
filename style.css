@@ -1,7 +1,14 @@
 body {
     padding: 50px;
-    text-align: center;
     font-family: American Typewriter, serif;
+}
+
+#header {
+    text-align: center;
+}
+
+p {
+    text-align: right;
 }
 
 #photo {
